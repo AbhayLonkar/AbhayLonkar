@@ -19,8 +19,34 @@
 
 ### 🧠 Skills & Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,kotlin,typescript,mongodb,php)
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,androidstudio,figma,tailwind,vite,npm)
+#### 🗣️ Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+</p>
+
+#### 🧰 Frameworks & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm" />
+</p>
 
 ---
 
